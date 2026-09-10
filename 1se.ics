@@ -1,0 +1,408 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//homework-board//1st grade//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:1SE Homework
+X-WR-CALDESC:Unofficial parent-made homework feed for 1SE. Confirm with y
+ our teacher.
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:ps-86114266-literacy@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Literacy packet — turn in today
+DESCRIPTION:Hand in: Mon Aug 31\nTeacher: Isaiah Parker\n\nSent home Frid
+ ay because the class ran out of time on the test. Mr. Parker collects it
+  Monday.\n\nOriginal post: https://www.parentsquare.com/feeds/86114266\n
+ Board: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made feed
+  — confirm anything that matters with your teacher.
+CATEGORIES:assignment\,Literacy
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86114266
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86190523-l15@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Math — Lesson 1-5
+DESCRIPTION:Hand in: Fri Sep 4\nTeacher: Sobia Yousufi\n\nThe week's focu
+ s. Ms. Yousufi's Sept 1 update: the class stays on Lesson 1-5 and extra 
+ practice until the skills are solid. Packet went home Monday\, collected
+  complete on Friday. Backup PDF of the Additional Practice workbook is o
+ n Schoology.\n\nOriginal post: https://www.parentsquare.com/feeds/861905
+ 23\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made 
+ feed — confirm anything that matters with your teacher.
+CATEGORIES:assignment\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86190523
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86210054-rw-mon@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Reading — ReadWorks assignment
+DESCRIPTION:Hand in: Wed Sep 2\nTeacher: Whitney Barquet\n\nNewsletter 4 
+ states it plainly: posted Monday Aug 31\, due Wednesday 9/2. Class codes
+  are in Ms. Whitney's ParentSquare post. Log in via Schoology or readwor
+ ks.org. Email Ms. Whitney for a redo if the score is under 70.\n\nOrigin
+ al post: https://www.parentsquare.com/feeds/86210054\nBoard: https://xwa
+ ng12.github.io/wk-6d9fc5/\nUnofficial parent-made feed — confirm anyth
+ ing that matters with your teacher.
+CATEGORIES:assignment\,Reading
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86210054
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86404359-math-missing@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:[Reminder] Math — Check your child got the math packet — Scho
+ ology backup
+DESCRIPTION:Teacher: Isaiah Parker\n\nMr. Parker ran over in literacy Mon
+ day and did not hand the math out to some 1Se students — his mistake\,
+  not Ms. Yousufi's\, and it will not be marked late. If your child's pap
+ er packet did not come home\, download it from Schoology. The work itsel
+ f is already on the board as Lessons 1-5 to 1-8\; this row is just the m
+ issing-copy check\, so tick it once you have the pages.\n\nOriginal post
+ : https://www.parentsquare.com/feeds/86404359\nBoard: https://xwang12.gi
+ thub.io/wk-6d9fc5/\nUnofficial parent-made feed — confirm anything tha
+ t matters with your teacher.
+CATEGORIES:reminder\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86404359
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86210054-rw-wed@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Reading — ReadWorks assignment
+DESCRIPTION:Hand in: Fri Sep 4\nTeacher: Whitney Barquet\n\nNewsletter 4 
+ states it plainly: posted Wednesday Sept 2\, due Friday 9/4.\n\nOriginal
+  post: https://www.parentsquare.com/feeds/86210054\nBoard: https://xwang
+ 12.github.io/wk-6d9fc5/\nUnofficial parent-made feed — confirm anythin
+ g that matters with your teacher.
+CATEGORIES:assignment\,Reading
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86210054
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86210054-scimethod@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:[Quiz] Science — Scientific Method re-quiz — picture cards
+DESCRIPTION:Teacher: Whitney Barquet\n\nTask card review came home Monday
+  night with instructions. Ms. Whitney re-quizzes the class with picture 
+ cards on Wednesday. From Newsletter 4 (image attachment)\, not the post 
+ text.\n\nOriginal post: https://www.parentsquare.com/feeds/86210054\nBoa
+ rd: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made feed 
+ — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Science
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86210054
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86190523-l16@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Math — Lesson 1-6
+DESCRIPTION:Hand in: Fri Sep 4 (estimated)\nHeads up: this day was worked
+  out from context\, not stated by the teacher.\nTeacher: Sobia Yousufi\n
+ \nConditional. Ms. Yousufi's Sept 1 update: “If students demonstrate m
+ astery of Lessons 1-5\, we will begin Lesson 1-6 later this week.” Thu
+ rsday is our guess at when that would be — check with her before doing
+  it early. It is in the packet already.\n\nOriginal post: https://www.pa
+ rentsquare.com/feeds/86461365\nBoard: https://xwang12.github.io/wk-6d9fc
+ 5/\nUnofficial parent-made feed — confirm anything that matters with y
+ our teacher.
+CATEGORIES:assignment\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86461365
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86921309-quizstudy@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Math — Study for math quiz — addition strategies
+DESCRIPTION:Hand in: Fri Sep 4 (estimated)\nHeads up: this day was worked
+  out from context\, not stated by the teacher.\nTeacher: Sobia Yousufi\n
+ \nMs. Yousufi's study list for the upcoming quiz: (1) addition facts wit
+ hin 10 - all the ways to make a number\, (2) counting on\, (3) doubles a
+ nd near doubles (7+8 via 7+7)\, (4) redo questions 11-14 in the 1-5 Addi
+ tional Practice HW and have your child explain how they solved them\, (5
+ ) ten frames and the make-a-ten strategy. She names no date - “our upc
+ oming quiz” - so this sits Thursday night against the standing Friday 
+ math quiz already on the board (post 86133794). Retakes at Student Hours
+  — now THURSDAYS after school\, pickup 3:50-4:00pm from the gym (chang
+ ed by Ms. Yousufi's Sept 4 post\; message her ahead with your child's na
+ me\, whether it is a retake\, and the skill).\n\nOriginal post: https://
+ www.parentsquare.com/feeds/86921309\nBoard: https://xwang12.github.io/wk
+ -6d9fc5/\nUnofficial parent-made feed — confirm anything that matters 
+ with your teacher.
+CATEGORIES:assignment\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86921309
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86133794-mathquiz@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[Quiz] Math — Friday math quiz (4 questions)
+DESCRIPTION:Teacher: Sobia Yousufi\n\nWeekly quiz on the skills from this
+  week's homework. Retakes at Student Hours — now THURSDAYS after schoo
+ l\, pickup 3:50-4:00pm from the gym (Ms. Yousufi's Sept 4 post moved the
+ m off Wednesdays).\n\nOriginal post: https://www.parentsquare.com/feeds/
+ 86133794\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent
+ -made feed — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86133794
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-85308467-humtest@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[Quiz] Humanities test
+DESCRIPTION:Teacher: Whitney Barquet\n\nAnnounced in Newsletter 3 for Sep
+ tember 4th\, study resources on Schoology. Note: Newsletter 4 does not r
+ estate it — its Homework Corner lists only the Types of Communities or
+ al quiz for Sept 4. Worth confirming with Ms. Whitney whether these are 
+ the same thing.\n\nOriginal post: https://www.parentsquare.com/feeds/853
+ 08467\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-ma
+ de feed — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Humanities
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/85308467
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86210054-communities@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:[Quiz] Social Studies — Types of Communities oral quiz
+DESCRIPTION:Teacher: Whitney Barquet\n\nListed in Newsletter 4 Homework C
+ orner for Friday\, September 4th. From the newsletter image\, not the po
+ st text.\n\nOriginal post: https://www.parentsquare.com/feeds/86210054\n
+ Board: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made feed
+  — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Social Studies
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86210054
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86190523-l17@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:Math — Lesson 1-7
+DESCRIPTION:Hand in: Fri Sep 11 (estimated)\nHeads up: this day was worke
+ d out from context\, not stated by the teacher.\nTeacher: Sobia Yousufi\
+ n\nMoved to next week. Ms. Yousufi's Sept 1 update says plainly: “Less
+ ons 1-7 and 1-8 do not need to be completed or turned in this week. We w
+ ill work on those lessons next week after we have completed the necessar
+ y instruction in class.” The pages are already in the packet that came
+  home Monday\; these days are our pacing guess until she announces next 
+ week's lessons. — UPDATE Sept 9: an online GradeCam answer sheet is no
+ w an option for this lesson (see the “Choose online or paper” remind
+ er). HEADS UP — in the post the 1.7 and 1.8 links are IDENTICAL (both 
+ end 6a9f0e3941ac0951bf04888f). One of them is almost certainly the wrong
+  sheet\, so submitting 1-8 through that link may land on 1-7. Worth aski
+ ng Ms. Yousufi before submitting Lesson 1-8 online — or just use the p
+ aper sheet for 1-8.\n\nOriginal post: https://www.parentsquare.com/feeds
+ /86461365\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial paren
+ t-made feed — confirm anything that matters with your teacher.
+CATEGORIES:assignment\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86461365
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86725415-littest@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:[Quiz] Literacy test
+DESCRIPTION:Teacher: Isaiah Parker\n\nFrom Mr. Parker's newsletter image 
+ (week of 09/02/2026)\, not the post text — the post has no body. He wr
+ ites: "we are preparing for our test on tuesday I will also be returning
+  our test from last week so everyone knows what to work on!" He names th
+ e day but not the date\; the next Tuesday after this Wednesday newslette
+ r is 9/8. Prep in class is Lesson 89 on 9/3 and Lesson 90/review on 9/4.
+  Last week's graded test comes home too — use it to see what to work o
+ n.\n\nOriginal post: https://www.parentsquare.com/feeds/86725415\nBoard:
+  https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made feed — c
+ onfirm anything that matters with your teacher.
+CATEGORIES:quiz\,Literacy
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86725415
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-86190523-l18@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Math — Lesson 1-8
+DESCRIPTION:Hand in: Fri Sep 11 (estimated)\nHeads up: this day was worke
+ d out from context\, not stated by the teacher.\nTeacher: Sobia Yousufi\
+ n\nMoved to next week. Ms. Yousufi's Sept 1 update says plainly: “Less
+ ons 1-7 and 1-8 do not need to be completed or turned in this week. We w
+ ill work on those lessons next week after we have completed the necessar
+ y instruction in class.” The pages are already in the packet that came
+  home Monday\; these days are our pacing guess until she announces next 
+ week's lessons. — UPDATE Sept 9: an online GradeCam answer sheet is no
+ w an option for this lesson (see the “Choose online or paper” remind
+ er). HEADS UP — in the post the 1.7 and 1.8 links are IDENTICAL (both 
+ end 6a9f0e3941ac0951bf04888f). One of them is almost certainly the wrong
+  sheet\, so submitting 1-8 through that link may land on 1-7. Worth aski
+ ng Ms. Yousufi before submitting Lesson 1-8 online — or just use the p
+ aper sheet for 1-8.\n\nOriginal post: https://www.parentsquare.com/feeds
+ /86461365\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial paren
+ t-made feed — confirm anything that matters with your teacher.
+CATEGORIES:assignment\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/86461365
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-physmatter@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Science — Physical Matter HW
+DESCRIPTION:Hand in: Wed Sep 9\nTeacher: Whitney Barquet\n\nPost text: 
+ “physical matter - assigned tomorrow due Sept. 9th” (posted Labor Da
+ y Monday 9/7\, so it is handed out Tuesday 9/8). The newsletter image ag
+ rees: “Physical Matter HW – Tuesday September 8 – copy on Schoolog
+ y.” Unit is solid\, liquid\, gas.\n\nOriginal post: https://www.parent
+ square.com/feeds/87190092\nBoard: https://xwang12.github.io/wk-6d9fc5/\n
+ Unofficial parent-made feed — confirm anything that matters with your 
+ teacher.
+CATEGORIES:assignment\,Science
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-rw-tue@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Reading — ReadWorks assignment
+DESCRIPTION:Hand in: Thu Sep 10\nTeacher: Whitney Barquet\n\nNewsletter 5
+  image states it plainly: “Tuesday: September 8th (due 9/10)”. Class
+  codes are in Ms. Whitney's ParentSquare post. Log in through Schoology 
+ or readworks.org — a how-to guide is attached to the post. Assignments
+  are completed digitally\; email Ms. Whitney if there is no tablet or co
+ mputer at home and she will send a printed copy.\n\nOriginal post: https
+ ://www.parentsquare.com/feeds/87190092\nBoard: https://xwang12.github.io
+ /wk-6d9fc5/\nUnofficial parent-made feed — confirm anything that matte
+ rs with your teacher.
+CATEGORIES:assignment\,Reading
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87458933-submission@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:[Reminder] Math — Choose online or paper for math answer sheets
+DESCRIPTION:Heads up: this day was worked out from context\, not stated b
+ y the teacher.\nTeacher: Sobia Yousufi\n\nMs. Yousufi has put the homewo
+ rk answer sheets online and now gives a choice: submit answers on GradeC
+ am online\, or keep using the paper answer sheet sent home. If it is don
+ e online there is no need to fill in the paper sheet. She encourages onl
+ ine. This softens her Sept 8 post (“record final answers on the GradeC
+ am answer sheet only”) — paper is still fully supported. ACTION: she
+  asks families who prefer paper to tell her\, and she will send printed 
+ copies home regularly. No deadline is given for replying. Grade 1 answer
+  sheets: 1.6 [link in the ParentSquare post] · 1.7 [link in the ParentS
+ quare post] · 1.8 [link in the ParentSquare post] · 1.9 [link in the P
+ arentSquare post] HEADS UP — in the post the 1.7 and 1.8 links are IDE
+ NTICAL (both end 6a9f0e3941ac0951bf04888f). One of them is almost certai
+ nly the wrong sheet\, so submitting 1-8 through that link may land on 1-
+ 7. Worth asking Ms. Yousufi before submitting Lesson 1-8 online — or j
+ ust use the paper sheet for 1-8.\n\nOriginal post: https://www.parentsqu
+ are.com/feeds/87458933\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUno
+ fficial parent-made feed — confirm anything that matters with your tea
+ cher.
+CATEGORIES:reminder\,Math
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87458933
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-communities-quiz@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:[Quiz] Social Studies — Communities quiz
+DESCRIPTION:Teacher: Whitney Barquet\n\nNamed in both the post text and t
+ he newsletter Homework Corner: “Communities Quiz\, Thursday September 
+ 10th.” Social studies this week covers Civics & Geography: Maps and Pa
+ triots Day.\n\nOriginal post: https://www.parentsquare.com/feeds/8719009
+ 2\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-made f
+ eed — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Social Studies
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-hero@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Social Studies — Hero HW
+DESCRIPTION:Hand in: Fri Sep 11\nTeacher: Whitney Barquet\n\nPost text: 
+ “Hero HW - assigned Sept. 10th due Sept. 11th.” The newsletter image
+  adds that a copy is on Schoology. Ties into the Patriots Day / Remember
+ ing 9/11 topic.\n\nOriginal post: https://www.parentsquare.com/feeds/871
+ 90092\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial parent-ma
+ de feed — confirm anything that matters with your teacher.
+CATEGORIES:assignment\,Social Studies
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-rw-thu@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Reading — ReadWorks assignment
+DESCRIPTION:Hand in: Fri Sep 11\nTeacher: Whitney Barquet\n\nSecond ReadW
+ orks of the week. Newsletter 5 image: “Thursday: September 10th (due 9
+ /11)”. Class codes are in Ms. Whitney's ParentSquare post.\n\nOriginal
+  post: https://www.parentsquare.com/feeds/87190092\nBoard: https://xwang
+ 12.github.io/wk-6d9fc5/\nUnofficial parent-made feed — confirm anythin
+ g that matters with your teacher.
+CATEGORIES:assignment\,Reading
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87190092-humtest@wk-6d9fc5
+DTSTAMP:20260910T215639Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:[Quiz] Humanities test
+DESCRIPTION:Teacher: Whitney Barquet\n\nCovers main idea\, supporting det
+ ails\, point of view\, genre/subgenre\, and annotating symbols. Ms. Whit
+ ney moved it: “I originally had the test on the 8th but pushed it a we
+ ek to give students more time to review and process the content.” Stud
+ y resources go up on Schoology through the week\, alongside previous cla
+ sswork assignments. This is next week — it will show on the board when
+  that week arrives.\n\nOriginal post: https://www.parentsquare.com/feeds
+ /87190092\nBoard: https://xwang12.github.io/wk-6d9fc5/\nUnofficial paren
+ t-made feed — confirm anything that matters with your teacher.
+CATEGORIES:quiz\,Humanities
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+END:VCALENDAR
