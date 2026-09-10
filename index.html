@@ -23,10 +23,13 @@ img{max-width:100%}
 @media (prefers-color-scheme:dark){
   .pubnote{color:#AEBAB5;background:#141B19;border-bottom-color:#28322E}
 }
+#synced{display:block;margin-top:.3rem;font-weight:600}
+#synced.stale{color:#A8590C}
+@media (prefers-color-scheme:dark){#synced.stale{color:#E3A557}}
 </style>
 </head>
 <body>
-<p class="pubnote">Unofficial parent-made board — not from BASIS Austin. Collected automatically from ParentSquare three times a day and interpreted by software, so it can be wrong or incomplete. Always confirm with your teacher. Nothing you do on this page is saved or sent anywhere.</p>
+<p class="pubnote">Unofficial parent-made board — not from BASIS Austin. Collected automatically from ParentSquare three times a day and interpreted by software, so it can be wrong or incomplete. Always confirm with your teacher. Nothing you do on this page is saved or sent anywhere. <span id="synced" data-at="2026-09-10T21:43:56.000Z"></span></p>
 <style id="app-css">
 :root{
   --paper:#EDF0EE; --card:#FFFFFF; --card-2:#F7F9F8;
@@ -623,5 +626,23 @@ setInterval(function(){
 })();
 </script>
 
+<script>
+/* A sync that dies leaves the board frozen, and a frozen board looks exactly like a
+   current one. Say out loud when it last updated, and shout if that was a while ago. */
+(function(){
+  var e = document.getElementById("synced"), at = e && e.getAttribute("data-at");
+  if(!at) return;
+  var d = new Date(at), hrs = (Date.now() - d) / 36e5;
+  if(isNaN(hrs)) return;
+  var when = d.toLocaleString([], {weekday:"short", month:"short", day:"numeric",
+                                   hour:"numeric", minute:"2-digit"});
+  e.textContent = "Last synced " + when + ".";
+  if(hrs > 24){
+    e.textContent = "Last synced " + when + " — over " + Math.floor(hrs/24) +
+      " day(s) ago, so this may be out of date. Check ParentSquare.";
+    e.className = "stale";
+  }
+})();
+</script>
 </body>
 </html>
