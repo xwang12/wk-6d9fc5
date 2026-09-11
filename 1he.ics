@@ -10,7 +10,7 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:ps-85789526-capquiz@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:[Quiz] Literacy — Capitalization quiz
@@ -25,7 +25,7 @@ URL:https://www.parentsquare.com/feeds/85789526
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-85789526-splash@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Literacy — SplashLearn assignment
@@ -41,7 +41,7 @@ URL:https://www.parentsquare.com/feeds/85789526
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86210054-rw-mon@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Reading — ReadWorks assignment
@@ -58,7 +58,7 @@ URL:https://www.parentsquare.com/feeds/86210054
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86210054-scimethod@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:[Quiz] Science — Scientific Method re-quiz — picture cards
@@ -74,7 +74,7 @@ URL:https://www.parentsquare.com/feeds/86210054
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86133794-mathquiz@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:[Quiz] Math — Friday math quiz (4 questions)
@@ -90,7 +90,7 @@ URL:https://www.parentsquare.com/feeds/86133794
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-85308467-humtest@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:[Quiz] Humanities test
@@ -107,7 +107,7 @@ URL:https://www.parentsquare.com/feeds/85308467
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86190523-l15@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Math — Lesson 1-5
@@ -124,7 +124,7 @@ URL:https://www.parentsquare.com/feeds/86190523
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86190523-l16@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Math — Lesson 1-6
@@ -143,7 +143,7 @@ URL:https://www.parentsquare.com/feeds/86461365
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86210054-rw-wed@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Reading — ReadWorks assignment
@@ -158,7 +158,7 @@ URL:https://www.parentsquare.com/feeds/86210054
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86921309-quizstudy@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Math — Study for math quiz — addition strategies
@@ -183,7 +183,7 @@ URL:https://www.parentsquare.com/feeds/86921309
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86210054-communities@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:[Quiz] Social Studies — Types of Communities oral quiz
@@ -198,7 +198,7 @@ URL:https://www.parentsquare.com/feeds/86210054
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87458933-submission@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:[Reminder] Math — Choose online or paper for math answer sheets
@@ -227,7 +227,7 @@ URL:https://www.parentsquare.com/feeds/87458933
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86109574-litassess@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:[Quiz] Literacy assessment
@@ -247,7 +247,7 @@ URL:https://www.parentsquare.com/feeds/87258873
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87258873-review@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Literacy assessment review packet
@@ -267,7 +267,7 @@ URL:https://www.parentsquare.com/feeds/87258873
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-physmatter@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Science — Physical Matter HW
@@ -285,7 +285,7 @@ URL:https://www.parentsquare.com/feeds/87190092
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-communities-quiz@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:[Quiz] Social Studies — Communities quiz
@@ -301,7 +301,7 @@ URL:https://www.parentsquare.com/feeds/87190092
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-rw-tue@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Reading — ReadWorks assignment
@@ -320,7 +320,7 @@ URL:https://www.parentsquare.com/feeds/87190092
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-hero@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Social Studies — Hero HW
@@ -336,7 +336,7 @@ URL:https://www.parentsquare.com/feeds/87190092
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86190523-l17@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Math — Lesson 1-7
@@ -362,7 +362,7 @@ URL:https://www.parentsquare.com/feeds/86461365
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-86190523-l18@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Math — Lesson 1-8
@@ -388,7 +388,7 @@ URL:https://www.parentsquare.com/feeds/86461365
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-rw-thu@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Reading — ReadWorks assignment
@@ -404,7 +404,7 @@ URL:https://www.parentsquare.com/feeds/87190092
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87258873-books@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 SUMMARY:Literacy homework: I Feel Green + I See CH
@@ -422,7 +422,7 @@ URL:https://www.parentsquare.com/feeds/87258873
 END:VEVENT
 BEGIN:VEVENT
 UID:ps-87190092-humtest@wk-6d9fc5
-DTSTAMP:20260910T230700Z
+DTSTAMP:20260911T140345Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 SUMMARY:[Quiz] Humanities test
@@ -438,5 +438,31 @@ DESCRIPTION:Teacher: Whitney Barquet\n\nCovers main idea\, supporting det
 CATEGORIES:quiz\,Humanities
 TRANSP:TRANSPARENT
 URL:https://www.parentsquare.com/feeds/87190092
+END:VEVENT
+BEGIN:VEVENT
+UID:ps-87816759-humtest-studyguide@wk-6d9fc5
+DTSTAMP:20260911T140345Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Humanities test study guide
+DESCRIPTION:Do it on: Fri Sep 11\nHeads up: this due date was worked out 
+ from context\, not stated by the teacher.\nTeacher: Whitney Barquet\n\nM
+ s. Whitney names the day: “Tomorrow morning\, I will be sending home a
+  study guide for our upcoming Humanities test” (posted Thursday 9/10\,
+  so it comes home Friday 9/11). She adds: “I will also upload the stud
+ y guide to Schoology so students can access it there as well along with 
+ other resource to use” — so if the paper copy does not make it home\
+ , look on Schoology. The test it prepares for is the Humanities test alr
+ eady on the board for Tuesday 9/15 (she had pushed it a week from the 8t
+ h)\; it covers main idea\, supporting details\, point of view\, genre/su
+ bgenre\, and annotating symbols. No collection day is stated for the stu
+ dy guide itself — it is study work rather than something to hand in 
+ — so due is set to the 9/15 test it feeds and flagged a guess.\n\nOrig
+ inal post: https://www.parentsquare.com/feeds/87816759\nBoard: https://x
+ wang12.github.io/wk-6d9fc5/\nUnofficial parent-made feed — confirm any
+ thing that matters with your teacher.
+CATEGORIES:assignment\,Humanities
+TRANSP:TRANSPARENT
+URL:https://www.parentsquare.com/feeds/87816759
 END:VEVENT
 END:VCALENDAR
